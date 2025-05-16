@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-style {
+    @apply w-[350px] h-[60px] rounded-[10px] pl-[10px] bg-lightYellow placeholder-white border-2 border-borderColor
+}
