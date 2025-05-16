@@ -5,8 +5,13 @@
 ## LocalHost: http://localhost:8000/
 
 Możliwe potrzebne biblioteki dla zainstalowania i uruchomienia Django:
+
 `pip install django`
+
 `pip install djangorestframework`
+
 ` pip install Pillow ` - biblioteka do pracy z obrazami
+
 ` pip install django-leaflet` - interaktywna mapa
+
 `pip install django-cors-headers`
