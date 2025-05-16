@@ -1,8 +1,8 @@
-# To start React project: `npm start`
-## LocalHost: http://localhost:3000/
-# To start Django project:
-`source venv/bin/activate python3 manage.py runserver`
-## LocalHost: http://localhost:8000/
+## To start React project: `npm start`
+LocalHost: http://localhost:3000/
+
+## To start Django project: `source venv/bin/activate python3 manage.py runserver`
+LocalHost: http://localhost:8000/
 
 Możliwe potrzebne biblioteki dla zainstalowania i uruchomienia Django:
 
